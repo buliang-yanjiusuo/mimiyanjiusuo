@@ -255,7 +255,7 @@
     <!-- 联系方式 -->
     <footer id="contact">
         <p>联系方式：<a href="mailto:buliangyanjiusuo@proton.me">buliangyanjiusuo@proton.me</a></p>
-        <p>官网网址：www.secretresearchlab.com</p>
+        <p>官网网址：www.github.com</p>
         <p>版权 &copy; 2024 秘密研究所. 保留所有权利.</p>
     </footer>
 
